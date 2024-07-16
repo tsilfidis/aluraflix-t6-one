@@ -1,0 +1,143 @@
+{
+  "filmes": [
+  {
+    "id": 1,
+    "title": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei",
+    "cover": "https://i.ytimg.com/vi/fiPfvylj6rk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3JKY8wNFerlmX-AlJPoAvs7HKdQ",
+    "link": "https://www.youtube.com/embed/fiPfvylj6rk",
+    "categoria": "Back-End",
+    "description": "Afinal, quem trabalha com Back-end faz o que? Com quais outras áreas da tecnologia essa pessoa acaba se relacionando no dia a dia de trabalho e quais os possíveis caminhos nessa carreira?..."
+  },
+  {
+    "id": 2,
+    "title": "O que faz uma desenvolvedora front-end?",
+    "cover": "https://i.ytimg.com/vi/ZY3-MFxVdEw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwf1Dl_d42K2KXTkScHVr9bdVcYw",
+    "link": "https://www.youtube.com/embed/ZY3-MFxVdEw",
+    "categoria": "Front-End",
+    "description": "O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa nesse..."
+  },
+  {
+    "id": 2,
+    "title": "Desmistificando Mobile- Por onde eu começo? #01",
+    "cover": "https://i.ytimg.com/vi/2z6f8VN_Pro/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQKTD3oi7xt46IhwPg_-iQ8hQ9SQ",
+    "link": "https://www.youtube.com/embed/2z6f8VN_Pro",
+    "categoria": "Mobile",
+    "description": "Tem série nova no canal 🤩 A Websérie “Desmistificando o mobile” vêm aí para simplificar com exemplos práticos vários assuntos envolvendo o mundo dos aplicativos de celular e neste..."
+  },
+  {
+    "id": 4,
+    "title": "JavaScript para back-end",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/288470/header.jpg?t=1577393306",
+    "link": "https://www.youtube.com/embed/uyRDbGZG92E",
+    "categoria": "Back-End",
+    "description": "Nesse episódio do Hipsters.Talks vamos conversar sobre a utilização de JavaScript para back-end e conhecer mais sobre sua aplicação no dia a dia de desenvolvimento."
+  },
+  {
+    "id": 5,
+    "title": "Como testar seu Front-end? com Mario Souto",
+    "cover": "https://i.ytimg.com/vi/CaTbfdsVydE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_N_0DryhJpQKCobwCulhW4QiLBg",
+    "link": "https://www.youtube.com/embed/CaTbfdsVydE",
+    "categoria": "Front-End",
+    "description": "Por onde começar a testar as habilidades em Front-end? Se você tem dúvidas na hora de testar softwares e colocar em prática técnicas modernas, esse vídeo vai te ajudar. O @DevSoutinho..."
+  },
+  {
+    "id": 6,
+    "title": "Desmistificando mobile- Linguagens e Frameworks #2",
+    "cover": "https://i.ytimg.com/vi/fmu1LQvZhms/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKsy4-ob1r6zAdYEPZIqKs45E4wQ",
+    "link": "https://www.youtube.com/embed/fmu1LQvZhms",
+    "categoria": "Mobile",
+    "description": "Segundo episódio no ar! 🥳 No segundo episódio da websérie “Desmistificando o mobile” vamos entender um pouco sobre o que é feito após ser inserido no mundo dos apps: conhecer um..."
+  },
+  {
+    "id": 7,
+    "title": "Arquitetura de sistemas com Fabio Akita",
+    "cover": "https://i.ytimg.com/vi/oedWxgAZc2A/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBh1MgE3gCH4NYLtRX-5a1pJ2qU-g",
+    "link": "https://www.youtube.com/embed/oedWxgAZc2A",
+    "categoria": "Back-End",
+    "description": "Liberation Maiden se passa em um Japão futurista chamado de New Japan. O país, abundante em produção de energia, é atacado por um grupo terrorista chamado The Dominion, que tem o objetivo de roubar toda a energia do lugar. Nesse meio tempo, o presidente é assassinado e sua filha, Shoko, assume seu cargo."
+  },
+  {
+    "id": 8,
+    "title": "Guia de carreira Front-end",
+    "cover": "https://i.ytimg.com/vi/fpth65ts3cw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCq0Y4u5eRSTfO65M7NnR4EDYQHCQ",
+    "link": "https://www.youtube.com/embed/fpth65ts3cw",
+    "categoria": "Front-End",
+    "description": "Nesse primeiro episódio, confira o que é front-end e como seguir nessa área da tecnologia, através do Tech Guide front-end, um Guia de Estudos do iniciante ao avançado. São 3 níveis de Profundidade e 1 nível de Expansão, formando seu perfil como Dev Front-End em T."
+  },
+  {
+    "id": 9,
+    "title": "Desenvolvimento Android",
+    "cover": "https://i.ytimg.com/vi/fWscDFHKgw8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9nvcHnJVvTJXNUFs2YjQiF_G4Og",
+    "link": "https://www.youtube.com/embed/fWscDFHKgw8",
+    "categoria": "Mobile",
+    "description": "Um episódio focado no desenvolvimento de aplicações Android. Neste bate-papo, Paulo Silveira e Felipe Torres conversam sobre os primeiros passos para começar a desenvolver, quais as principais..."
+  },
+  {
+    "id": 10,
+    "title": "Principais dúvidas sobre programação",
+    "cover": "https://i.ytimg.com/vi/jpuJ1qrluoU/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDcWt1FtQ-YWDpHP9MybqWkjsvklw",
+    "link": "https://www.youtube.com/embed/jpuJ1qrluoU",
+    "categoria": "Back-End",
+    "description": "Orientação a objetos com Roberta Arcoverde"
+  },
+  {
+    "id": 11,
+    "title": "Guia de carreira React JS",
+    "cover": "https://i.ytimg.com/vi/0tS4lUq_7iA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCp4vTcQwPqzfF11ojZKYcGR0fmQQ",
+    "link": "https://www.youtube.com/embed/0tS4lUq_7iA",
+    "categoria": "Front-End",
+    "description": "Outlast 2 é a sequela do aclamado jogo de horror de sobrevivência, Outlast. Situado no mesmo universo do primeiro jogo mas com personagens e um cenário diferentes, Outlast 2 é uma nova e retorcida viagem às profundezas da mente humana e aos segredos nela ocultos."
+  },
+  {
+    "id": 12,
+    "title": "Desenvolvimento iOS pra iniciantes com Giovanna Moeller",
+    "cover": "https://i.ytimg.com/vi/MGIs7DSQ-0A/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBG2NA8l2mecsJxAlmcF79mBzBvUg",
+    "link": "https://www.youtube.com/embed/MGIs7DSQ-0A",
+    "categoria": "Mobile",
+    "description": "Por onde começar em iOS? Qual linguagem é importante dominar? Quais ferramentas necessárias para mergulhar no desenvolvimento iOS? 🤔 O @DevSoutinho é o host desse episódio e ele recebeu..."
+  },
+  {
+    "id": 16,
+    "title": "As 9 Softskills mais desejadas pelas empresas",
+    "cover": "https://i.ytimg.com/vi/SjY0zj17-8U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCd6xj0PZILKZ-uYlW4iZ3MTYLhdw",
+    "link": "https://www.youtube.com/embed/SjY0zj17-8U",
+    "categoria": "Inovação",
+    "description": "O que são as Softskills e por que é tão importante desenvolvê-las para se posicionar no mercado de trabalho? Neste Alura+, a Pri Stuani fala sobre as 9 habilidades comportamentais mais buscadas por empresas em seus profissionais e como elas te auxiliam no dia a dia."
+  },
+  {
+    "id": 17,
+    "title": "Semana de Agilidade: Lean, Agile e Inovação, com Alexandre Abdalla, da Totvs",
+    "cover": "https://i.ytimg.com/vi/9V48oXZdXgQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmpzZ6DqNBiW9rP_D7b7JDBUPoTQ",
+    "link": "https://www.youtube.com/embed/NR8yKbPdkMQ",
+    "categoria": "Gestão",
+    "description": "Neste papo com a Totvs, vamos conversar sobre as principais diferenças entre a gestão de projetos cascata e ágil."
+  }
+],
+  "categorias": [
+  {
+    "id": 1,
+    "categoria": "Back-End",
+    "color": "#6BD1FF"
+  },
+  {
+    "id": 2,
+    "categoria": "Front-End",
+    "color": "#00C86F"
+  },
+  {
+    "id": 3,
+    "categoria": "Mobile",
+    "color": "#FFBA05"
+  },
+  {
+    "id": 4,
+    "categoria": "Inovação",
+    "color": "#FF5733"
+  },
+  {
+    "id": 5,
+    "categoria": "Gestão",
+    "color": "#BB33FF"
+  }
+]
+}
