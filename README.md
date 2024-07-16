@@ -1,4 +1,6 @@
 # Alura Flix
+![image](https://github.com/user-attachments/assets/41993d9e-945d-4ac1-97a8-38cca44fef9b)
+
 
 Demonstração: 
 
